@@ -1,0 +1,37 @@
+[
+  {
+    "repository": "https://github.com/Nutlope/hallmark",
+    "sourcePath": "skills/hallmark",
+    "commit": "04977e15f3dfd6ee4b74c887dac3eb52665d6c92",
+    "installation": "project-local-lightweight",
+    "includes": "SKILL.md, references, scripts, data, library; optional galleries and most demo assets omitted"
+  },
+  {
+    "repository": "https://github.com/Leonxlnx/taste-skill",
+    "sourcePath": "skills/taste-skill",
+    "commit": "f6b76575f949707b4e3c37cd86cb44b0b98643e8",
+    "installation": "project-local-lightweight",
+    "includes": "SKILL.md, references, scripts, data, library; optional galleries and most demo assets omitted"
+  },
+  {
+    "repository": "https://github.com/pbakaus/impeccable",
+    "sourcePath": ".agents/skills/impeccable",
+    "commit": "1995764b4936f2bfbf4eb719cb37b384a45ceacb",
+    "installation": "project-local-lightweight",
+    "includes": "SKILL.md, references, scripts, data, library; optional galleries and most demo assets omitted"
+  },
+  {
+    "repository": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+    "sourcePath": ".claude/skills/ui-ux-pro-max",
+    "commit": "d643997c82e94742dd3bee43210b0198e8bbba3d",
+    "installation": "project-local-lightweight",
+    "includes": "SKILL.md, references, scripts, data, library; optional galleries and most demo assets omitted"
+  },
+  {
+    "repository": "https://github.com/cathrynlavery/diagram-design",
+    "sourcePath": "skills/diagram-design",
+    "commit": "f6db0decea96de66b901331a0f79a8d4b147ebae",
+    "installation": "project-local-lightweight",
+    "includes": "SKILL.md, references, scripts, data, library; optional galleries and most demo assets omitted"
+  }
+]
